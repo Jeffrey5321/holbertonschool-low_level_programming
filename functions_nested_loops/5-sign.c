@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#include <ctype.h>
 
 /**
  * print_sign - function that prints the sign of a number
@@ -24,6 +25,5 @@ int print_sign(int n)
 	putchar (48);
 	return (0);
 	}
-	putchar(n);
 	putchar('\n');
 }
