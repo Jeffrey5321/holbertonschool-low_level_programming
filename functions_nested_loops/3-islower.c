@@ -4,7 +4,7 @@
 
 /**
  * _islower -  function that checks for lowercase
- * @ c: is a lower case
+ * @c: is a lower case
  * Return: 1 if c is lowercase (success)
  */
 
