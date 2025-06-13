@@ -1,7 +1,8 @@
-#include "stdio.h"
+#include <stdio.h>
+
 /**
- * main- prints a sentence
- * 
+ * main - prints a sentence
+ *
  * Return: siempre 0
  */
 int main(void)
