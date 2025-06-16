@@ -1,6 +1,6 @@
 # include <stdio.h>
 
-/*
+/**
  * main - This function prints the lowercase letters of the
  * alphabet followed by a new line.
  *
