@@ -1,7 +1,8 @@
 # include <stdio.h>
 
 /*
- * main - print the alphabet in lowercase
+ * main - This function prints the lowercase letters of the
+ * alphabet followed by a new line.
  *
  * Return: (0)
  */
