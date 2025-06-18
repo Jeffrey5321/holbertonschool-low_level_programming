@@ -3,7 +3,7 @@
 
 /**
  * print_last_digit - prints the last digit of a number.
- * @r The integer input from which the last digit is extracted.
+ * @r: The integer input from which the last digit is extracted.
  *
  * Return: Last digit as int value.
  */
