@@ -2,7 +2,7 @@
 # include  <stdio.h>
 
 /**
- * isupper - function that checks for uppercase characters.
+ * _isupper - function that checks for uppercase characters.
  * @c: the int for the parameters of my function.
  *
  * Return: 0
